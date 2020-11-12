@@ -1,0 +1,19 @@
+- photo caption/description, enlarge photos http://forum.tufat.com/showthread.php?p=227102
+- http://forum.tufat.com/showthread.php?t=54447
+- burial site problem http://forum.tufat.com/showthread.php?t=53933
+- picture deletion http://forum.tufat.com/showthread.php?t=50927
+- permissions improvemetns http://forum.tufat.com/showthread.php?t=50548
+- delete events http://forum.tufat.com/showthread.php?t=50561
+- http://forum.tufat.com/showthread.php?t=45631
+- add error handler to install. Didn't allow empty prefix.
+- add images repository choose (images vs db) http://forum.tufat.com/showthread.php?t=45153
+- the addition of a deceased check box so it displays like (Divorced) e.g. (Deceased) - it's neater and faster if you don't know when a person passed away http://forum.tufat.com/showthread.php?t=45631
+- sort functionality (http://forum.tufat.com/showthread.php?t=48262)
+- hide email for grabers http://forum.tufat.com/showthread.php?t=49693
+- In "Add a Person" in "Option A" has a drop down list, that is good.
+I would like to see the same drop down list in "Option B" in Place of Birth,Address of Birthplace,City,State and Country, because all my family was born in the same town, same country. If is Portugal or Spain, I should just select from the drop down or if I start to type "Po" will pop up the first occurrence that is Portugal,or Poland or is I type "Sp" will pop up the first occurrence that is Spain
+- two divorces and the current one is married it deletes the current spouce? Is that fixable or does it only allow for a max of two divorces in the lifetime?
+- calendar as option http://forum.tufat.com/showthread.php?p=185344
+- smart much http://forum.tufat.com/showthread.php?t=54042
+- branch permission for ID http://forum.tufat.com/showthread.php?t=21571
+- whichlist http://forum.tufat.com/showthread.php?t=21571

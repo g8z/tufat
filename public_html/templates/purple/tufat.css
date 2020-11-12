@@ -1,0 +1,451 @@
+a img { border: 0px solid #FFFFFF;}
+p {
+  margin-top: 0px;
+  margin-bottom:20px;
+  padding-top:0px;
+  padding-bottom: 0px;
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom:0px;
+  padding-top:0px;
+  padding-bottom: 0px;
+}
+
+
+form {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+input {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+}
+
+select {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+}
+
+textarea {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+}
+
+
+body {
+        background-image: none;
+        margin: 0px;
+}
+.errorBody {
+        font-family: Arial, Helvetica;
+        font-size: 12px;
+        color: #FF0000;
+}
+.errorTitle {
+        font-family: Arial, Helvetica;
+        font-size: 18px;
+        color: #000000;
+}
+.subtitle {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: bolder;
+        color: #000000;
+}
+.normal {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+        color: #000000;
+}
+.title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 24px;
+        font-weight: bolder;
+}
+
+A {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #0000FF;
+}
+
+A:hover {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FF0000;
+}
+
+/* NOTE: leftNavItemNoLink font size/color should reflect A.leftNavItem font size/color. */
+
+A.leftNavItem {
+        text-decoration: underline;
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color: #FFFF99;
+        font-weight: normal;
+}
+.leftNavItem {
+        text-decoration: underline;
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color: #FFFF99;
+        font-weight: normal;
+}
+.leftNavItemNoLink {
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color: #FFFF99;
+        font-weight: normal;
+        text-decoration: underline;
+}
+A.leftNavItem:hover {
+        text-decoration: underline;
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-weight: normal;
+        font-size: 12px;
+        color: #FFFFFF;
+}
+.leftNavItem:hover {
+        text-decoration: underline;
+        font-weight: normal;
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color: #FFFFFF;
+}
+
+A.largeLink {
+        text-decoration: underline;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        color: #0000FF;
+}
+
+A.largeLink:hover {
+        text-decoration: underline;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        color: #FF0000;
+}
+
+A.pinkLink {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #FF33CC;
+}
+
+A.pinkLink:hover {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #FF33CC;
+}
+
+A.blueLink {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #0000FF;
+}
+
+A.blueLink:hover {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #0000FF;
+}
+
+A.pinkLinkNormal {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+
+        font-size: 12px;
+        color: #FF33CC;
+}
+
+A.pinkLinkNormal:hover {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FF33CC;
+}
+
+A.blueLinkNormal {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #0000FF;
+}
+
+A.blueLinkNormal:hover {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #0000FF;
+}
+
+A.subtitleLink {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        color: #000000;
+        font-weight: bold;
+        text-decoration: underline;
+}
+
+.pinkNormal {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FF33CC;
+}
+
+.blueNormal {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #0000FF;
+}
+
+
+.backgroundColor {
+        background-color: #Fafad2;
+}
+.normalBold {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+}
+.sons {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #000000;
+        font-style: italic;
+}
+.daughters {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #000000;
+        font-style: italic;
+}
+.marriages {
+        font-family: Geneva, Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-style: italic;
+        font-weight: bolder;
+}
+.normalSmall {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-style: normal;
+}
+.leftNavHeader {
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: normal;
+        font-variant: normal;
+        color: #FFFFFF;
+        text-decoration: none;
+}
+.normalRed {
+        color: #FF0000;
+}
+.normalLarge {
+        font-family: Geneva, Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+}
+.spouses {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #000000;
+        font-style: italic;
+}
+A.smallLink {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #0000FF;
+}
+A.smallLink:hover {
+        text-decoration: underline;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: #FF0000;
+}
+.siblings {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #000000;
+        font-style: italic;
+}
+
+.topMenu {COLOR: white; font-weight: bold;}
+.topMenu:hover {COLOR: #ff9900;}
+
+A.bottMenu{FONT-SIZE: 10px;}
+
+.pagePath{
+    COLOR: #FFFF99;
+    FONT-SIZE: 10px;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    FONT-WEIGHT: normal;
+    text-decoration: none;
+}
+.pagePathLink{
+    COLOR: #FFFF99;
+    FONT-SIZE: 10px;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.pagePathLink:hover{
+    COLOR: #FFFFFF;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: normal;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    TEXT-DECORATION: underline;
+}
+.fixed{
+    font-family : Verdana, Helvetica,Arial, sans-serif;
+        font-size: 10px;
+        text-decoration: underline;
+}
+.boxTop{
+    BACKGROUND-COLOR: #993300;
+        COLOR: #ff9900;
+    FONT-SIZE: 10px;
+    FONT-WEIGHT: normal;
+        text-align:center;
+}
+.menuLeft
+{
+        padding: 0px 0px 0px 1px;
+}
+
+.menu2Header
+{
+    COLOR: #993300;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none;
+    font-weight : normal;
+        padding: 0px 0px 1px 1px;
+}
+
+.menu2Desc
+{
+    COLOR: black;
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none;
+    font-weight : normal;
+        padding: 0px 0px 1px 1px;
+}
+
+.menuVertHeader
+{
+    FONT-SIZE: 10px;
+    TEXT-DECORATION: none;
+    font-weight : normal;
+        padding: 0px 0px 1px 0px;
+}
+
+.menuVertDesc
+{
+        padding: 0px 0px 1px 1px;
+}
+
+.menuItem{
+    COLOR: #FFFFFF;
+    FONT-SIZE: 12px;
+    font-family: Arial, sans-serif;
+    FONT-WEIGHT: normal;
+    text-decoration: none;
+}
+
+.menuItem_nh {
+    COLOR: #FFFFFF;
+    FONT-SIZE: 12px;
+    font-family: Arial, sans-serif;
+    FONT-WEIGHT: normal;
+    text-decoration: none;
+}
+
+.menuItem:hover{
+    COLOR: #FFFF95;
+    FONT-SIZE: 12px;
+    font-family: Arial, sans-serif;
+    FONT-WEIGHT: normal;
+    text-decoration: none;
+}
+.menuMain{
+    COLOR: #FFFFFF;
+    FONT-SIZE: 15px;
+    font-family: Arial, sans-serif;
+    FONT-WEIGHT: bold;
+    text-decoration: none;
+}
+.menuMain:Hover{
+    COLOR: #FFFFFF;
+    FONT-SIZE: 15px;
+    font-family: Arial, sans-serif;
+    FONT-WEIGHT: bold;
+    text-decoration: none;
+}
+
+.txtinput0 {
+  width:40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000000;
+}
+.txtinput1 {
+  width:150px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000000;
+}
+.txtinput2 {
+  width:200px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000000;
+}
+.fileinput3 {
+  width:300px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000000;
+}
+
+td{
+ font-size: 12px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: #000000;
+}
+
+.txtinput3 {
+  width:400px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000000;
+}

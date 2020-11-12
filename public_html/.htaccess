@@ -1,0 +1,15 @@
+#php_flag display_errors 1
+#php_value error_reporting 6135
+#php_flag display_startup_errors 1
+
+<IfModule mod_php4.c>
+  php_flag register_globals 1
+</IfModule>
+
+<IfModule mod_php5.c>
+  php_flag register_globals 1
+</IfModule>
+
+<IfModule sapi_apache2.c>
+  php_flag register_globals 1
+</IfModule>

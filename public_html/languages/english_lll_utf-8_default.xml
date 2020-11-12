@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<date>1150752022</date>
+<language code="english" name="English (UTF-8)">
+  <text digest="$j phrases successfully added.">$j phrases successfully added.</text>
+  <text digest="$n items found">$n items found</text>
+  <text digest="$name has no known daughters.">$name has no known daughters.</text>
+  <text digest="$name has no known female offspring.">$name has no known female offspring.</text>
+  <text digest="$name has no known male offspring.">$name has no known male offspring.</text>
+  <text digest="$name has no known siblings.">$name has no known siblings.</text>
+  <text digest="$name has no known sons.">$name has no known sons.</text>
+  <text digest="$person1 and $person2 are brother and sister">$person1 and $person2 are brother and sister</text>
+  <text digest="$person1 is the $step brother of $person2">$person1 is the $step brother of $person2</text>
+  <text digest="$person1 is the $step sister of $person2">$person1 is the $step sister of $person2</text>
+  <text digest="$person1 is the spouse of $person2">$person1 is the spouse of $person2</text>
+  <text digest="\'s">'s</text>
+  <text digest="\'s record.">'s record.</text>
+  <text digest="(20 char. max)">(20 char. max)</text>
+  <text digest="(e.g BA History)">(e.g BA History)</text>
+  <text digest="(e.g. Catholic Church)">(e.g. Catholic Church)</text>
+  <text digest="(e.g. from Bogota, Colombia)">(e.g. from Bogota, Colombia)</text>
+  <text digest="(e.g. Hartford, CT)">(e.g. Hartford, CT)</text>
+  <text digest="(e.g. ill)">(e.g. ill)</text>
+  <text digest="(e.g. Love, Family Arragement)">(e.g. Love, Family Arragement)</text>
+  <text digest="(e.g. Normal, Ceasarian)">(e.g. Normal, Ceasarian)</text>
+  <text digest="(e.g. Presbyterian Church)">(e.g. Presbyterian Church)</text>
+  <text digest="(e.g. San Francisco, CA)">(e.g. San Francisco, CA)</text>
+  <text digest="(e.g. smith)">(e.g. smith)</text>
+  <text digest="(e.g. State College of New York)">(e.g. State College of New York)</text>
+  <text digest="(e.g. to Los Angeles, CA)">(e.g. to Los Angeles, CA)</text>
+  <text digest="(e.g. tumors in lungs and thyroid)">(e.g. tumors in lungs and thyroid)</text>
+  <text digest="(images exceeding dimensions of">(images exceeding dimensions of</text>
+  <text digest="(images exceeding dimensions of MAXPORTRAITWIDTH  x  MAXPORTRAITHEIGHT pixels will be resized)">(images exceeding dimensions of MAXPORTRAITWIDTH  x  MAXPORTRAITHEIGHT pixels will be resized)</text>
+  <text digest="(maximum size 1 MB, must be MS Word, PDF, or ASCII)">(maximum size 1 MB, must be MS Word, PDF, or ASCII)</text>
+  <text digest="(no breed specified)">(no breed specified)</text>
+  <text digest="(no name given)">(no name given)</text>
+  <text digest="(no owner specified)">(no owner specified)</text>
+  <text digest="(no surname given)">(no surname given)</text>
+  <text digest="(none)">(none)</text>
+  <text digest=", creator of TUFaT">, creator of TUFaT</text>
+  <text digest="...or...">...or...</text>
+  <text digest="10 Newest Individual Images">10 Newest Individual Images</text>
+  <text digest="10 Newest Individuals">10 Newest Individuals</text>
+  <text digest="10 Newest Tree Images">10 Newest Tree Images</text>
+  <text digest="10th">10th</text>
+  <text digest="1st">1st</text>
+  <text digest="1st Cousins:">1st Cousins:</text>
+  <text digest="2nd">2nd</text>
+  <text digest="3 = Highest Reliability">3 = Highest Reliability</text>
+  <text digest="3rd">3rd</text>
+  <text digest="4th">4th</text>
+  <text digest="5th">5th</text>
+  <text digest="6th">6th</text>
+  <text digest="7th">7th</text>
+  <text digest="8th">8th</text>
+  <text digest="9th">9th</text>
+  <text digest="A relationship between $person1 and $person2 could not be found">A relationship between $person1 and $person2 could not be found</text>
+  <text digest="Add">Add</text>
+  <text digest="Add a Biography for">Add a Biography for</text>
+  <text digest="Add Citation">Add Citation</text>
+  <text digest="Add Dam Information">Add Dam Information</text>
+  <text digest="Add Father Information">Add Father Information</text>
+  <text digest="Add Item">Add Item</text>
+  <text digest="Add Links">Add Links</text>
+  <text digest="Add Mother Information">Add Mother Information</text>
+  <text digest="Add new  for">Add new  for</text>
+  <text digest="Add new Dam">Add new Dam</text>
+  <text digest="Add new Daughter">Add New Daughter</text>
+  <text digest="Add new Father">Add new Father</text>
+  <text digest="Add New Female Offspring">Add new Female offspring</text>
+  <text digest="Add New Image">Add New Image</text>
+  <text digest="Add new language record">Add new language record</text>
+  <text digest="Add new logins">Add new logins</text>
+  <text digest="Add New Male Offspring">Add new Male offspring</text>
+  <text digest="Add New Mate">Add new Mate</text>
+  <text digest="Add new Mother">Add new Mother</text>
+  <text digest="Add new Partner">Add new Partner</text>
+  <text digest="Add New Partner or Spouse">Add New Partner or Spouse</text>
+  <text digest="Add new Sibling">Add New Sibling</text>
+  <text digest="Add new Sire">Add new Sire</text>
+  <text digest="Add new Son">Add New Son</text>
+  <text digest="Add New Spouse or Life Partner">Add New Spouse or Life Partner</text>
+  <text digest="Add Notes">Add Notes</text>
+  <text digest="Add or Edit Gallery Images">Add or Edit Gallery Images</text>
+  <text digest="Add Sire Information">Add Sire Information</text>
+  <text digest="Add Sources">Add Sources</text>
+  <text digest="Add/Edit Events">Add/Edit Events</text>
+  <text digest="Additional Birth and Death Information">Additional Birth and Death Information</text>
+  <text digest="Address of Baptism">Address of Baptism</text>
+  <text digest="Address of Birth Site">Address of Birth Site</text>
+  <text digest="Address of Birthplace">Address of Birthplace</text>
+  <text digest="Address of Death Site">Address of Death Site</text>
+  <text digest="Address, line 1">Address, line 1</text>
+  <text digest="Address, line 2">Address, line 2</text>
+  <text digest="Address, line 3">Address, line 3</text>
+  <text digest="Admin E-mail Address:">Admin E-mail Address:</text>
+  <text digest="Administrative">Administrative</text>
+  <text digest="Administrative Password:">Administrative Password:</text>
+  <text digest="administrator">administrator</text>
+  <text digest="Administrator Fields">Administrator Fields</text>
+  <text digest="Administrator\'s Name:">Administrator's Name:</text>
+  <text digest="adminname">Administrator</text>
+  <text digest="Adoption Citations">Adoption Citations</text>
+  <text digest="Adoption Notes">Adoption Notes</text>
+  <text digest="Adoption Notes and Citations">Adoption Notes and Citations</text>
+  <text digest="Adoption Notes and Sources">Adoption Notes and Sources</text>
+  <text digest="Adoption Sources">Adoption Sources</text>
+  <text digest="Adult Christening">Adult Christening</text>
+  <text digest="Age at Baptism">Age at Baptism</text>
+  <text digest="Agency of Baptism">Agency of Baptism</text>
+  <text digest="Alive">Alive</text>
+  <text digest="All done">All done</text>
+  <text digest="All other trees in the database will be left intact.">All other trees in the database will be left intact.</text>
+  <text digest="Allow Cross-tree Searches?">Allow Cross-tree Searches?</text>
+  <text digest="An Error Has Occurred">An Error Has Occurred</text>
+  <text digest="An update has been made to your record in the family tree!">An update has been made to your record in the family tree!</text>
+  <text digest="and">and</text>
+  <text digest="animal">animal</text>
+  <text digest="Animal Name">Animal Name</text>
+  <text digest="Annulment">Annulment</text>
+  <text digest="any existing portrait or biography for this individual.">any existing portrait or biography for this individual.</text>
+  <text digest="Are you sure you would like to remove this item ?">Are you sure you would like to remove this item ?</text>
+  <text digest="Are you sure? Citations based on this source will also be removed.">Are you sure? Citations based on this source will also be removed.</text>
+  <text digest="as the recipient address.">as the recipient address.</text>
+  <text digest="aunt">aunt</text>
+  <text digest="aunts">aunts</text>
+  <text digest="Aunts &amp; Uncles:">Aunts &amp; Uncles:</text>
+  <text digest="aunts and uncles">aunts and uncles</text>
+  <text digest="Author">Author</text>
+  <text digest="b. Date: $birt_date">b. Date: $birt_date</text>
+  <text digest="b. Place: $birt_plac">b. Place: $birt_plac</text>
+  <text digest="Back">Back</text>
+  <text digest="Backup All Trees">Backup All Trees</text>
+  <text digest="Baptised?">Baptised?</text>
+  <text digest="Baptism Citations">Baptism Citations</text>
+  <text digest="Baptism Notes">Baptism Notes</text>
+  <text digest="Baptism Notes and Citations">Baptism Notes and Citations</text>
+  <text digest="Baptism Notes and Sources">Baptism Notes and Sources</text>
+  <text digest="Baptism Sources">Baptism Sources</text>
+  <text digest="Baptism, Christening, and Bar/Bat Mitzvah Information">Baptism, Christening, and Bar/Bat Mitzvah Information</text>
+  <text digest="Baptismal Date">Baptismal Date</text>
+  <text digest="Baptismal Place">Baptismal Place</text>
+  <text digest="Bar/Bat Mitzvah Citations">Bar/Bat Mitzvah Citations</text>
+  <text digest="Bar/Bat Mitzvah Date">Bar/Bat Mitzvah Date</text>
+  <text digest="Bar/Bat Mitzvah Note">Bar/Bat Mitzvah Note</text>
+  <text digest="Bar/Bat Mitzvah Notes">Bar/Bat Mitzvah Notes</text>
+  <text digest="Bar/Bat Mitzvah Notes and Citations">Bar/Bat Mitzvah Notes and Citations</text>
+  <text digest="Bar/Bat Mitzvah Notes and Sources">Bar/Bat Mitzvah Notes and Sources</text>
+  <text digest="Bar/Bat Mitzvah Place">Bar/Bat Mitzvah Place</text>
+  <text digest="Bar/Bat Mitzvah Sources">Bar/Bat Mitzvah Sources</text>
+  <text digest="big_upload_info1">If your GEDCOM file is very large (>500KB), then you may upload the file in multiple parts. Each part should be less than 500KB, and you should divide the files so that individual GEDCOM records are not divided into separate files. GEDCOM records typically start with "0", for example:</text>
+  <text digest="big_upload_info2">When all files have been separately uploaded, click "All Done". This will</text>
+  <text digest="big_upload_info3">erase all data that is currently present, replacing it with imported data.</text>
+  <text digest="Birth Citations">Birth Citations</text>
+  <text digest="Birth Date">Birth Date</text>
+  <text digest="Birth Date can\'t be later than today">Birth Date can't be later than today</text>
+  <text digest="Birth Note">Birth Note</text>
+  <text digest="Birth Notes">Birth Notes</text>
+  <text digest="Birth Notes and Citations">Birth Notes and Citations</text>
+  <text digest="Birth Notes and Sources">Birth Notes and Sources</text>
+  <text digest="Birth Place">Birth Place</text>
+  <text digest="Birth Sources">Birth Sources</text>
+  <text digest="Birthdays this week">Birthdays this week</text>
+  <text digest="Blessing">Blessing</text>
+  <text digest="born between">born between</text>
+  <text digest="born during this month">born during this month</text>
+  <text digest="born on this day">born on this day</text>
+  <text digest="Breed">Breed</text>
+  <text digest="breed fragment">breed fragment</text>
+  <text digest="Breeder">Breeder</text>
+  <text digest="Bump Up">Bump Up</text>
+  <text digest="burial place fragment">burial place fragment</text>
+  <text digest="Burial Site">Burial Site</text>
+  <text digest="Call Name">Call Name</text>
+  <text digest="Call number">Call number</text>
+  <text digest="Callname">Call Name</text>
+  <text digest="callname fragment">call name fragment</text>
+  <text digest="Cancel">Cancel</text>
+  <text digest="Cannot establish connection to the database (invalid username, password, or hostname)">Cannot establish connection to the database (invalid username, password, or hostname)</text>
+  <text digest="Cannot find database $dbName (invalid database name)">Cannot find database $dbName (invalid database name)</text>
+  <text digest="Caption:">Caption:</text>
+  <text digest="cap_Gender">Gender</text>
+  <text digest="cause of death">Cause of Death</text>
+  <text digest="Cause of Marriage">Cause of Marriage</text>
+  <text digest="Census">Census</text>
+  <text digest="Championship Titles">Championship Titles</text>
+  <text digest="Change">Change</text>
+  <text digest="Change Father">Change Father</text>
+  <text digest="Change Mother">Change Mother</text>
+  <text digest="Change Template">Change Template</text>
+  <text digest="Change type">Change type</text>
+  <text digest="checked">checked</text>
+  <text digest="checking_this_box">Checking this box will give the general public a very limited, read-only view of your tree when performing searches. They will still need to contact you, the tree administrator, to gain access to the tree.</text>
+  <text digest="Children:">Children:</text>
+  <text digest="chliv_txt_1">This setting affects only those individuals in your family tree for which the "Hide Individual" checkbox has been selected.</text>
+  <text digest="Choose a User ID:">Choose a User ID:</text>
+  <text digest="Choose Template">Choose Template</text>
+  <text digest="Citation # $mid has been deleted successfully.">Citation # $mid has been deleted successfully.</text>
+  <text digest="Citation delete problem.">Citation delete problem.</text>
+  <text digest="Citations">Citations</text>
+  <text digest="City">City</text>
+  <text digest="Click a name to load the person\'s record, or click on a column header to re-sort the search results.">Click a name to load the person's record, or click on a column to re-sort the search results.</text>
+  <text digest="Click here to add one.">Click here to add one.</text>
+  <text digest="click here to create one">click here to create one</text>
+  <text digest="Click here to log back in">Click here to log back in</text>
+  <text digest="Click here to view your entire tree">Click here to view your entire tree</text>
+  <text digest="Click on an individual\'s name to load the record. You may return to this page at any time by clicking the \'Entire Tree\' link at the left. Records are sorted here by family name, although different families who share a family name are placed together.">Click on an individual's name to load the record. You may return to this page at any time by clicking the 'Entire Tree' link at the left. Records are sorted here by family name, although different families who share a family name are placed together.</text>
+  <text digest="Clicking on the name of an individual will give you a form by which you can request access to the tree by the tree administrator. For security reasons, you may not access trees outside your own family without permission of the tree owner, and only initials and years are provided in lieu of full names and dates. Highlighted rows indicate a likely match to the currently loaded tree.">Clicking on the name of an individual will give you a form by which you can request access to the tree by the tree administrator. For security reasons, you may not access trees outside your own family without permission of the tree owner, and only initials and years are provided in lieu of full names and dates. Highlighted rows indicate a likely match to the currently loaded tree.</text>
+  <text digest="click_on_a_name">Clicking on a name in the extended tree will re-center the tree
+            around that individual. To view a record, click on the person's name
+            once to re-enter the extended tree, then click on the name at the
+            base of the tree (the large link) to load the record.</text>
+  <text digest="Close this Window">Close this Window</text>
+  <text digest="Close Windows">Close Windows</text>
+  <text digest="cmp_upload_info1">If your GEDCOM file is very large, you may compress it first as a tar.gz file, and then upload the compressed file. Select "Append to existing tree" to append the data to the currently loaded family tree.</text>
+  <text digest="cmp_upload_info2">Other wise, the imported GEDCOM information will</text>
+  <text digest="cmp_upload_info3">erase all data that is currently present, replacing it with imported data.</text>
+  <text digest="Comapct">Compact</text>
+  <text digest="Comments">Comments</text>
+  <text digest="Complete This Information to Create a New Tree">Complete This Information to Create a New Tree</text>
+  <text digest="COMPLETELY">COMPLETELY</text>
+  <text digest="Confirmation Citations">Confirmation Citations</text>
+  <text digest="Confirmation Date">Confirmation Date</text>
+  <text digest="Confirmation Notes">Confirmation Notes</text>
+  <text digest="Confirmation Notes and Citations">Confirmation Notes and Citations</text>
+  <text digest="Confirmation Notes and Sources">Confirmation Notes and Sources</text>
+  <text digest="Confirmation Place">Confirmation Place</text>
+  <text digest="Confirmation Sources">Confirmation Sources</text>
+  <text digest="Congratulations! The e-mail to $semail was sent successfully">Congratulations! The e-mail to $semail was sent successfully</text>
+  <text digest="Contact Information (last known)">Contact Information (last known)</text>
+  <text digest="Contact Information:">Contact Information:</text>
+  <text digest="Country">Country</text>
+  <text digest="cousin">cousin</text>
+  <text digest="cousins">cousins</text>
+  <text digest="Create a new member in the tree">Create a new member in the tree</text>
+  <text digest="Create a new person in your tree">Create a new person in your tree</text>
+  <text digest="Create a new record in this family tree">Create a new record in this family tree</text>
+  <text digest="Create new login">Create new login</text>
+  <text digest="Create the first person in your tree">Create the first person in your tree</text>
+  <text digest="Create the first record in this family tree">Create the first record in this family tree</text>
+  <text digest="Cremation">Cremation</text>
+  <text digest="cshow_h">The purpose of this view is to enable quick identification of your family's cousins from different generations, and across multiple degrees of removal. To save space, cousins are not distinguished by family; instead, all cousins of a particular type are grouped into the same block. You must have at least Internet Explorer 5+ or Netscape 7+ to correctly use this tree view. Position the mouse over a rectangle to see the individuals with that designation, and click on an individual's name to re-center the tree around that individual.</text>
+  <text digest="Dam">Dam</text>
+  <text digest="Dam:">Dam:</text>
+  <text digest="Date">Date</text>
+  <text digest="Date can\'t be later than today">Date can't be later than today</text>
+  <text digest="Date of Adoption">Date of Adoption</text>
+  <text digest="Date of Baptism">Date of Baptism</text>
+  <text digest="Date of Bar/Bat Mitzvah">Date of Bar/Bat Mitzvah</text>
+  <text digest="Date of Birth">Date of Birth</text>
+  <text digest="Date of Death">Date of Death</text>
+  <text digest="Date of Graduation">Date of Graduation</text>
+  <text digest="Date of Immigration">Date of Immigration</text>
+  <text digest="Date of Last Change">Date of Last Change</text>
+  <text digest="Daughters">Daughters</text>
+  <text digest="Dead">Dead</text>
+  <text digest="Dear $matchTree tree administrator, A search of the family tree database on $sname suggests that we have a common link in our family trees. The record in your tree with ID# $ID may match a record in the $user tree may match a record in the family tree. I am interested in pursuing this possibility to find common ancestors and relations between our families. Thanks!">Dear $matchTree tree administrator,
+ A search of the family tree database on $sname suggests that we have a common link in our family trees. The record in your tree with ID# $ID may match a record in the $user tree may match a record in the family tree. I am interested in pursuing this possibility to find common ancestors and relations between our families. Thanks!</text>
+  <text digest="Death Citations">Death Citations</text>
+  <text digest="Death Date">Death Date</text>
+  <text digest="Death Date can\'t be before Birth Date">Death Date can't be before Birth Date</text>
+  <text digest="Death Date can\'t be entered for an alive person">Death Date can't be entered for an alive person</text>
+  <text digest="Death Date can\'t be later than today">Death Date can't be later than today</text>
+  <text digest="Death Note">Death Note</text>
+  <text digest="Death Notes">Death Notes</text>
+  <text digest="Death Notes and Citations">Death Notes and Citations</text>
+  <text digest="Death Notes and Sources">Death Notes and Sources</text>
+  <text digest="Death Sources">Death Sources</text>
+  <text digest="Death Status  (if unknown)">Death Status  (if unknown)</text>
+  <text digest="Degree">Degree</text>
+  <text digest="Delete">Delete</text>
+  <text digest="Delete This Tree">Delete This Tree</text>
+  <text digest="Deletion problem">Deletion problem</text>
+  <text digest="demo">demo</text>
+  <text digest="Description:">Description:</text>
+  <text digest="Descriptive Tree Name:">Descriptive Tree Name:</text>
+  <text digest="died between">died between</text>
+  <text digest="disabled">disabled</text>
+  <text digest="Dissolve Marriage">Dissolve Marriage</text>
+  <text digest="Divorce">Divorce</text>
+  <text digest="Divorce Citations">Divorce Citations</text>
+  <text digest="Divorce Date">Divorce Date</text>
+  <text digest="Divorce Filing">Divorce Filing</text>
+  <text digest="Divorce Information">Divorce Information</text>
+  <text digest="Divorce Notes">Divorce Notes</text>
+  <text digest="Divorce Notes and Citations">Divorce Notes and Citations</text>
+  <text digest="Divorce Notes and Sources">Divorce Notes and Sources</text>
+  <text digest="Divorce Sources">Divorce Sources</text>
+  <text digest="Divorce, Engagement, and additional Marriage Information">Divorce, Engagement, and additional Marriage Information</text>
+  <text digest="Divorced">Divorced</text>
+  <text digest="Divorced?">Divorced?</text>
+  <text digest="Do NOT delete this tree!">Do NOT delete this tree!</text>
+  <text digest="Do not spam or flame the tree administrator.">Do not spam or flame the tree administrator.</text>
+  <text digest="Download Biography">Download Biography</text>
+  <text digest="do_not_attempt">Do not attempt to gain access to family trees
+    for which you do not have access.</text>
+  <text digest="do_not_post">Do not post inappropriate material on a tree, as minors may
+    be viewing them.</text>
+  <text digest="E-Mail">E-Mail</text>
+  <text digest="E-Mail address">E-Mail Address</text>
+  <text digest="E-Mail From">E-Mail From</text>
+  <text digest="E-Mail not valid">E-Mail not valid</text>
+  <text digest="E-Mail sending problem">E-Mail sending problem</text>
+  <text digest="E-Mail Subject">E-Mail Subject</text>
+  <text digest="E-mail this person any time this record is updated.">E-mail this person any time this record is updated.</text>
+  <text digest="E-Mail To">E-Mail To</text>
+  <text digest="E-Mail To address invalid">E-Mail To address invalid</text>
+  <text digest="EAEAD2">EAEAD2</text>
+  <text digest="Edit Data for">Edit Data for</text>
+  <text digest="Edit Data for $name">Edit Data for $name</text>
+  <text digest="Edit Events">Edit Events</text>
+  <text digest="Edit Existing Image(s)">Edit Existing Image(s)</text>
+  <text digest="Edit individual ID">Edit individual ID</text>
+  <text digest="Edit life events">Edit life events</text>
+  <text digest="Edit Marriage or Partnership Data">Edit Marriage or Partnership Data</text>
+  <text digest="Edit Marriage or Partnership Information">Edit Marriage or Partnership Information</text>
+  <text digest="Edit Note # $sid">Edit Note # $sid</text>
+  <text digest="Edit Only">Edit Only</text>
+  <text digest="Edit Partnership Data">Edit Partnership Data</text>
+  <text digest="Edit Partnership Information">Edit Partnership Information</text>
+  <text digest="Edit Passwords">Edit Passwords</text>
+  <text digest="Edit Personal Data for">Edit Personal Data for</text>
+  <text digest="Edit Personal Data for $name">Edit Personal Data for $name</text>
+  <text digest="Edit Source">Edit Source</text>
+  <text digest="Edit This Record">Edit This Record</text>
+  <text digest="Edit User Information">Edit User Information</text>
+  <text digest="edit_ilog_id">If "Edit Individual Record ID" is chosen from the drop-down list, then you MUST enter a valid record ID. The user will only be able to edit the record with the provided record ID.</text>
+  <text digest="eighth">eighth</text>
+  <text digest="Emigration">Emigration</text>
+  <text digest="enabled">enabled</text>
+  <text digest="Engagement">Engagement</text>
+  <text digest="Enjoy!">Enjoy!</text>
+  <text digest="Enjoy, and thanks for using the system!">Enjoy, and thanks for using the system!</text>
+  <text digest="Entire Tree / Index">Entire Tree / Index</text>
+  <text digest="erase_all_data">erase all data that is currently in the tree. If you want to save
+ the current data, then you should create a new tree or backup the
+ existing tree.</text>
+  <text digest="err1_impp">The system was unable to upload your file. This may be due to a corrupted
+
+archive or invalid archive format, or a file size that exceeds the maximum
+
+allowed file upload size, as determined by your server. Please check to
+
+ensure that the archive is an intact tar.gz archive, and also that the
+
+PHP_INI_SYSTEM server variable is sufficiently large for this file upload.
+
+It may also be necessary to check your web server configuration, for example
+
+the http.conf file in Apache.</text>
+  <text digest="ERROR IN:">ERROR IN:</text>
+  <text digest="err_extr_gzip">There has been an error in decompressing the file. It's possible that your web server cannot decompress the tar.gz format, or that the files were not compressed using the tar.gz format</text>
+  <text digest="Essential Information">Essential Information</text>
+  <text digest="Event">Event</text>
+  <text digest="Events">Events</text>
+  <text digest="Existing">Existing</text>
+  <text digest="Export a Language File">Export a Language File</text>
+  <text digest="Export as ZIP">Export as ZIP</text>
+  <text digest="Export compressed">Export compressed</text>
+  <text digest="Export individual portraits to a tar.gz or .zip file">Export individual portraits to a tar.gz or .zip file</text>
+  <text digest="Export Language">Export Language</text>
+  <text digest="Export to GEDCOM">Export to GEDCOM</text>
+  <text digest="Export your tree to the GEDCOM format">Export your tree to the GEDCOM format</text>
+  <text digest="expp_txt_1">This tool allows a mass-export of your family tree portraits to a file for easy backup and sharing. It is recommended that you do this when a GEDCOM export is performed, so that you can easily restore all of your family's portraits.</text>
+  <text digest="Extended Family">Extended Family</text>
+  <text digest="Family Chart">Family Chart</text>
+  <text digest="Family Gallery">Family Gallery</text>
+  <text digest="Family members">Family members</text>
+  <text digest="Family Tree">Family Tree</text>
+  <text digest="Family Tree Administrator">Family Tree Administrator</text>
+  <text digest="father">father</text>
+  <text digest="Father">Father</text>
+  <text digest="Father:">Father:</text>
+  <text digest="Female">Female</text>
+  <text digest="Female offspring">Female offspring</text>
+  <text digest="fifth">fifth</text>
+  <text digest="File">File</text>
+  <text digest="File Name">File Name</text>
+  <text digest="File Name:">File Name:</text>
+  <text digest="File:">File:</text>
+  <text digest="Find another relation in your family tree">Find another relation in your family tree</text>
+  <text digest="Find Relation">Find Relation</text>
+  <text digest="Find relation between">Find relation between</text>
+  <text digest="first">first</text>
+  <text digest="for_10000">For about
+        10,000 man-hours of programming time, that's a pretty good deal! If you
+        would like me to help you install it on your web server, it's an additional
+        $49 for installation on either a UNIX or Windows server. All payments
+        can be made through Paypal, using</text>
+  <text digest="for_the_best">A 'fragment' is a single word,
+            or even just a part of a word, that identifies the item. For example,
+            if searching for all people named William, you might chose simple
+            &quot;ill&quot; as the name fragment, since this would match &quot;Bill&quot;
+            as well as &quot;William&quot; and &quot;Billy&quot;. To view all
+            records, leave all fields blank.</text>
+  <text digest="fourth">fourth</text>
+  <text digest="ftp_upload_info">Specify full HTTP, FTP or server path address for the GEDCOM file. For example: <br />FTP Path: ftp://user:password@ftp.myftp.com/mytree.ged<br />HTTP Path: http://myserver/mytree.ged<br />Server Path: /home/myaccount/public_html/mytree.ged</text>
+  <text digest="Full Name:">Full Name:</text>
+  <text digest="GEDCOM ID">GEDCOM ID</text>
+  <text digest="Gender">Gender</text>
+  <text digest="gender">gender</text>
+  <text digest="General Edit">General Edit</text>
+  <text digest="General Use Password:">General Use Password:</text>
+  <text digest="Generate this tree from an imported GEDCOM file">Generate this tree from an imported GEDCOM file</text>
+  <text digest="Generations">Generations</text>
+  <text digest="Given Name">Given Name</text>
+  <text digest="Given names (first &amp; middle)">Given names (first &amp; middle)</text>
+  <text digest="Graduation">Graduation</text>
+  <text digest="Graduation Citations">Graduation Citations</text>
+  <text digest="Graduation Date">Graduation Date</text>
+  <text digest="Graduation Description">Graduation Description</text>
+  <text digest="Graduation Notes">Graduation Notes</text>
+  <text digest="Graduation Notes and Citations">Graduation Notes and Citations</text>
+  <text digest="Graduation Notes and Sources">Graduation Notes and Sources</text>
+  <text digest="Graduation Sources">Graduation Sources</text>
+  <text digest="Graduation, baptism, military service, retirement, and other life events.">Graduation, baptism, military service, retirement, and other life events.</text>
+  <text digest="grand">grand</text>
+  <text digest="Grandchildren:">Grandchildren:</text>
+  <text digest="great">great</text>
+  <text digest="Great, great grandparents:">Great, great grandparents:</text>
+  <text digest="Guidelines">Guidelines</text>
+  <text digest="has no known daughters.">has no known daughters.</text>
+  <text digest="has no known female offspring.">has no known female offspring.</text>
+  <text digest="has no known male offspring.">has no known male offspring.</text>
+  <text digest="has no known siblings.">has no known siblings.</text>
+  <text digest="has no known sons.">has no known sons.</text>
+  <text digest="Health Information">Health Information</text>
+  <text digest="Help">Help</text>
+  <text digest="here">here</text>
+  <text digest="Help Me!">Help Me!</text>
+  <text digest="Hide">Hide</text>
+  <text digest="Hide Individual">Hide Individual</text>
+  <text digest="Hide Living">Hide Living</text>
+  <text digest="Hide Living Status">Hide Living Status</text>
+  <text digest="Hide Type">Hide Type</text>
+  <text digest="hid_indi">Information for the individual is hidden</text>
+  <text digest="hop1">Hide everything except first letters</text>
+  <text digest="hop2">Hide everything</text>
+  <text digest="hop3">Hide middle and last name</text>
+  <text digest="hop4">Hide everything except name</text>
+  <text digest="hop5">Hide photo only</text>
+  <text digest="How can I enter adopted
+        births or domestic partners?">How can I enter adopted
+        births or domestic partners?</text>
+  <text digest="How can I enter adopted births or domestic partners?">How can I enter adopted births or domestic partners?</text>
+  <text digest="How can I print my family
+tree?">How can I print my family
+tree?</text>
+  <text digest="How can I print my family tree?">How can I print my family tree?</text>
+  <text digest="How do I get a copy of this software for my own website?">How do I get a copy of this software for my own website?</text>
+  <text digest="How do I log out of the system?">How do I log out of the system?</text>
+  <text digest="How do I log out of TUFaT">How do I log out of TUFaT</text>
+  <text digest="How do I upload a photo
+to the tree?">How do I upload a photo
+to the tree?</text>
+  <text digest="How do I upload a photo to the tree?">How do I upload a photo to the tree?</text>
+  <text digest="How often is my family tree backed up?">How often is my family tree backed up?</text>
+  <text digest="HTML tags are not allowed">HTML tags are not allowed</text>
+  <text digest="Husband or Male Partner">Husband or Male Partner</text>
+  <text digest="I have a very large tree and want to jump to a specific person.">I have a very large tree and want to jump to a specific person.</text>
+  <text digest="I have read and agree with the guidelines:">I have read and agree with the guidelines:</text>
+  <text digest="I uploaded a biography but it comes out as garbage.">I uploaded a biography but it comes out as garbage.</text>
+  <text digest="If this daughter is already present in the family database, then please select the person from this list:">If this daughter is already present in the family database, then please select the person from this list:</text>
+  <text digest="If this father is already present in the family database, then please select the person from this list:">If this father is already present in the family database, then please select the person from this list:</text>
+  <text digest="If this is a recurring error, please">If this is a recurring error, please</text>
+  <text digest="If this mother is already present in the family database, then please select the person from this list:">If this mother is already present in the family database, then please select the person from this list:</text>
+  <text digest="If this sibling is already present in the family database, then please select the person from this list:">If this sibling is already present in the family database, then please select the person from this list:</text>
+  <text digest="If this son is already present in the family database, then please select the person from this list:">If this son is already present in the family database, then please select the person from this list:</text>
+  <text digest="If this spouse is already present in the family database, then please select the person from this list:">If this spouse is already present in the family database, then please select the person from this list:</text>
+  <text digest="if_you_like_to">If you would like to license this software for your
+        own website, you can get a copy with 100% of the source code for only
+        $5 at</text>
+  <text digest="Image Gallery">Image Gallery</text>
+  <text digest="Immigration">Immigration</text>
+  <text digest="Immigration Citations">Immigration Citations</text>
+  <text digest="Immigration Date">Immigration Date</text>
+  <text digest="Immigration Description">Immigration Description</text>
+  <text digest="Immigration Destination">Immigration Destination</text>
+  <text digest="Immigration Notes">Immigration Notes</text>
+  <text digest="Immigration Notes and Citations">Immigration Notes and Citations</text>
+  <text digest="Immigration Notes and Sources">Immigration Notes and Sources</text>
+  <text digest="Immigration Source">Immigration Source</text>
+  <text digest="Immigration Sources">Immigration Sources</text>
+  <text digest="Import">Import</text>
+  <text digest="Import a big GEDCOM file:">Import a big GEDCOM file:</text>
+  <text digest="Import a GEDCOM file:">Import a GEDCOM file:</text>
+  <text digest="Import a Language File">Import a Language File</text>
+  <text digest="Import a tar.gz file to your $g gallery">Import a tar.gz file to your $g gallery</text>
+  <text digest="Import compressed">Import compressed</text>
+  <text digest="Import GEDCOM">Import GEDCOM</text>
+  <text digest="Import/Export languages">Import/Export languages</text>
+  <text digest="Importing a GEDCOM file to your tree will">Importing a GEDCOM file to your tree will</text>
+  <text digest="impp_txt_1">This tool allows a mass-import of many portraits to your family tree, and is useful when restoring a backup of your tree. It is recommended that a tar.gz file produced by the export tool is used when importing.</text>
+  <text digest="impp_txt_2">One or more portraits could not be imported. Most likely, this is because some files did not have names that include GEDCOM ID# . Please use the export tool to create a tar.gz portrait file.</text>
+  <text digest="imp_gal_1">Using this tool, you can upload a set of images all at once to your gallery. The image titles will be auto-generated, and can be edited after uploading. The files must be compressed in the tar.gz format, and your web server must support decompression of this format.</text>
+  <text digest="in law">in law</text>
+  <text digest="Incorrect ID or Xtag Information">Incorrect ID or Xtag Information</text>
+  <text digest="Individual #ID $ID is not a member of any family">Individual #ID $ID is not a member of any family</text>
+  <text digest="Individual ID">Individual ID</text>
+  <text digest="Individual with ID $sID not found">Individual with ID $sID not found</text>
+  <text digest="Information Hide">Information Hide</text>
+  <text digest="Information successfully updated">Information successfully updated</text>
+  <text digest="Initials">Initials</text>
+  <text digest="installed_on">,
+        installed on the server. Many web hosts offer a service like this for
+        free. If the URL starts with https:// instead of http:// then you know
+        that the transmission is secure.</text>
+  <text digest="Invalid Birth Date">Invalid Birth Date</text>
+  <text digest="Invalid Date">Invalid Date</text>
+  <text digest="Invalid Death Date">Invalid Death Date</text>
+  <text digest="Invalid email address">Invalid email address</text>
+  <text digest="is">is</text>
+  <text digest="is invalid! File NOT removed.">is invalid! File NOT removed.</text>
+  <text digest="Is my password and
+username secure?">Is my password and
+username secure?</text>
+  <text digest="Is my tree secure?">Is my tree secure?</text>
+  <text digest="is not listed here, but">is not listed here, but</text>
+  <text digest="is not listed, then a record will not be created for this new">is not listed, then a record will not be created for this new</text>
+  <text digest="is the">is the</text>
+  <text digest="it_is_standard_practice">It is standard practice to include some information
+    about the &quot;submitter&quot; of the GEDCOM file (your information):</text>
+  <text digest="it_is_strongly">It is strongly recommended that you save this information after completing
+              each section by clicking &quot;Save Information&quot;. In the
+              event of a network failure, web browser crash, etc., this will reduce
+              your information loss. When entering DATE information, you may enter an exact date using the month,
+              day, and year drop-down lists, OR you may enter a text approximation of a date, for example, "circa 1800" or "1850/1851"</text>
+  <text digest="i_have_a_large_tree">I have a very large tree and want to jump to a specific
+     person.</text>
+  <text digest="Jump to...">Jump to...</text>
+  <text digest="Language Name">Language Name</text>
+  <text digest="Language:">Language:</text>
+  <text digest="Last Login:">Last Login:</text>
+  <text digest="Last Login: $lastLogin">Last Login: $lastLogin</text>
+  <text digest="Lateral Tree">Lateral Tree</text>
+  <text digest="Lateral View">Lateral View</text>
+  <text digest="latest version of Internet Explorer">latest version of Internet Explorer</text>
+  <text digest="LDS Baptism">LDS Baptism</text>
+  <text digest="LDS Confirmation">LDS Confirmation</text>
+  <text digest="LDS Endowment">LDS Endowment</text>
+  <text digest="level">level</text>
+  <text digest="Life events for $nm">Life events for $nm</text>
+  <text digest="Life Partners">Life Partners</text>
+  <text digest="Links Gallery">Links Gallery</text>
+  <text digest="Load">Load</text>
+  <text digest="Load Current">Load Current</text>
+  <text digest="Load Record">Load Record</text>
+  <text digest="Location">Location</text>
+  <text digest="Location of Adoption">Location of Adoption</text>
+  <text digest="Lock password or admin password:">Lock password or admin password:</text>
+  <text digest="Login add problem">Login add problem</text>
+  <text digest="Login Error">Login Error</text>
+  <text digest="Login password">Login password</text>
+  <text digest="Login Type">Login Type</text>
+  <text digest="Login username">Login username</text>
+  <text digest="Logout">Logout</text>
+  <text digest="logout, then login again">logout, then login again</text>
+  <text digest="logsp1">Please contact the</text>
+  <text digest="logsp2">with any questions about this family tree system, or if you have any difficulty accessing or using your family tree.</text>
+  <text digest="Mail message:">Mail message:</text>
+  <text digest="Male">Male</text>
+  <text digest="Male offspring">Male offspring</text>
+  <text digest="Marriage Agency">Marriage Agency</text>
+  <text digest="Marriage Citations">Marriage Citations</text>
+  <text digest="Marriage Contract">Marriage Contract</text>
+  <text digest="Marriage Date">Marriage Date</text>
+  <text digest="Marriage events">Marriage events</text>
+  <text digest="Marriage Information">Marriage Information</text>
+  <text digest="Marriage License">Marriage License</text>
+  <text digest="Marriage Notes">Marriage Notes</text>
+  <text digest="Marriage Notes and Citations">Marriage Notes and Citations</text>
+  <text digest="Marriage Notes and Sources">Marriage Notes and Sources</text>
+  <text digest="Marriage Notice">Marriage Notice</text>
+  <text digest="Marriage Settlement">Marriage Settlement</text>
+  <text digest="Marriage Sources">Marriage Sources</text>
+  <text digest="Married">Married</text>
+  <text digest="Match percentage:">Match percentage:</text>
+  <text digest="Maternal Ancestry">Maternal Ancestry</text>
+  <text digest="Mates">Mates</text>
+  <text digest="Message:">Message:</text>
+  <text digest="Military service">Military service</text>
+  <text digest="Minimal/Name Only">Minimal/Name Only</text>
+  <text digest="mother">mother</text>
+  <text digest="Mother">Mother</text>
+  <text digest="Mother:">Mother:</text>
+  <text digest="MySQL connection to $dbName is good.">MySQL connection to $dbName is good.</text>
+  <text digest="Name">Name</text>
+  <text digest="name fragment">name fragment</text>
+  <text digest="name is">name is</text>
+  <text digest="Name Prefix">Name Prefix</text>
+  <text digest="Name Suffix">Name Suffix</text>
+  <text digest="Naturalization">Naturalization</text>
+  <text digest="Navigation">Navigation</text>
+  <text digest="nephew">nephew</text>
+  <text digest="new_sinfo">Please save this record before adding Notes and Sources.</text>
+  <text digest="new_sinfo_2">Please save this record before adding Life events.</text>
+  <text digest="Next Image">Next Image</text>
+  <text digest="Nickname">Nickname</text>
+  <text digest="niece">niece</text>
+  <text digest="Nieces &amp; Nephews:">Nieces &amp; Nephews:</text>
+  <text digest="nieces and nephews">nieces and nephews</text>
+  <text digest="nineth">nineth</text>
+  <text digest="No dam">No dam</text>
+  <text digest="No father">No father</text>
+  <text digest="No Images">No Images</text>
+  <text digest="No marriage information present.">No marriage information present.</text>
+  <text digest="No mother">No mother</text>
+  <text digest="No other additional information has been entered for">No other additional information has been entered for</text>
+  <text digest="No partner information present.">No partner information present.</text>
+  <text digest="No records in any other trees were returned by your search request.">No records in any other trees were returned by your search request.</text>
+  <text digest="No records in the">No records in the</text>
+  <text digest="No sire">No sire</text>
+  <text digest="No spousal or partner information present">No spousal or partner information present</text>
+  <text digest="Non family members">Non family members</text>
+  <text digest="Note # $mid has been deleted successfully.">Note # $mid has been deleted successfully.</text>
+  <text digest="Note list is empty">Note list is empty</text>
+  <text digest="NOTE: A copy of this message will be sent to the address specified in the \'From\' field. You may want to add more information about the match or include your name and additional contact information. The message above is just provided as a guideline.">NOTE: A copy of this message will be sent to the address specified in the 'From' field. You may want to add more information about the match or include your name and additional contact information. The message above is just provided as a guideline.</text>
+  <text digest="NOTE: Deleting a record will remove ALL references to this person, as well as the biography and photo for the person, if present. After deletion, the next-of-kin for the deleted individual will be loaded. If no next-of-kin is present, the entire family tree list will be loaded.">NOTE: Deleting a record will remove ALL references to this person, as well as the biography and photo for the person, if present. After deletion, the next-of-kin for the deleted individual will be loaded. If no next-of-kin is present, the entire family tree list will be loaded.</text>
+  <text digest="NOTE: If the">NOTE: If the</text>
+  <text digest="Note: Uploading a portrait or biography will">Note: Uploading a portrait or biography will</text>
+  <text digest="Notes">Notes</text>
+  <text digest="Notes About the Bar/Bat Mitzvah">Notes About the Bar/Bat Mitzvah</text>
+  <text digest="Notes About the Birth">Notes About the Birth</text>
+  <text digest="Notes About the Death">Notes About the Death</text>
+  <text digest="Notes and Sources">Notes and Sources</text>
+  <text digest="Notes delete problem.">Notes delete problem.</text>
+  <text digest="Notes were deleted successfully.">Notes were deleted successfully.</text>
+  <text digest="NOTICE: TUFaT could not find a valid temp directory in which to store image data. You will not be able to upload and display portraits correctly without this directory. Please refer to the TUFaT README file for directions on setting up the temp folder.">NOTICE: TUFaT could not find a valid temp directory in which to store image data. You will not be able to upload and display portraits correctly without this directory. Please refer to the TUFaT README file for directions on setting up the temp folder.</text>
+  <text digest="NOTICE: TUFaT has detected that the temp directory is not world-writeable and/or world-readable. Portraits that you upload will not be correctly displayed unless the temp directory is world-writeable and world-readable.">NOTICE: TUFaT has detected that the temp directory is not world-writeable and/or world-readable. Portraits that you upload will not be correctly displayed unless the temp directory is world-writeable and world-readable.</text>
+  <text digest="Now sending mail to:">Now sending mail to:</text>
+  <text digest="no_website">No website is necessarily permanent. Hosting companies
+        go out of business, system admins die or are laid off, etc. It's a good
+        idea to backup the tree on your own periodically by exporting your tree
+        to the GEDCOM file format and saving any biographical and photo files
+        that family members may have uploaded. You should also keep a written
+        record of your tree and update it as family members make their own contributions
+        to your family tree.</text>
+  <text digest="Number of records in found:">Number of records in found set for  tree:</text>
+  <text digest="number of results to return">number of results to return</text>
+  <text digest="Occupation">Occupation</text>
+  <text digest="occupation fragment">occupation fragment</text>
+  <text digest="of">of</text>
+  <text digest="of this new">of this new</text>
+  <text digest="of_tufat">of Tufat
+                v.2. Please do not put *permanent* data
+                into it because I cannot guarantee its persistency.
+                Please report bugs and suggestions for improvement
+                to g8z@yahoo.com. To login as an</text>
+  <text digest="once">once</text>
+  <text digest="Only the">Only the</text>
+  <text digest="Only the $user tree will be removed.">Only the $user tree will be removed.</text>
+  <text digest="only those with biographies">only those with biographies</text>
+  <text digest="only those with portraits">only those with portraits</text>
+  <text digest="Option A">Option A</text>
+  <text digest="Option A: choose an existing person as Father, or">Option A: choose an existing person as the Father, or</text>
+  <text digest="Option A: choose an existing person as Mother, or">Option A: choose an existing person as Mother, or</text>
+  <text digest="Option A: choose an existing person as the daughter, or">Option A: choose an existing person as the daughter, or</text>
+  <text digest="Option A: choose an existing person as the sibling, or">Option A: choose an existing person as the sibling, or</text>
+  <text digest="Option A: choose an existing person as the son, or">Option A: choose an existing person as the son, or</text>
+  <text digest="Option A: choose an existing person as the spouse, or">Option A: choose an existing person as the spouse, or</text>
+  <text digest="Option B">Option B</text>
+  <text digest="Option B: create a new individual as Father">Option B: create a new individual as Father</text>
+  <text digest="Option B: create a new individual as Mother">Option B: create a new individual as Mother</text>
+  <text digest="Option B: create a new individual as the daughter">Option B: create a new individual as the daughter</text>
+  <text digest="Option B: create a new individual as the sibling">Option B: create a new individual as the sibling</text>
+  <text digest="Option B: create a new individual as the son">Option B: create a new individual as the son</text>
+  <text digest="Option B: create a new individual as the spouse">Option B: create a new individual as the spouse</text>
+  <text digest="or">or</text>
+  <text digest="or enter a valid record number in the navigation bar at the left.">or enter a valid record number in the navigation bar at the left.</text>
+  <text digest="Ordination">Ordination</text>
+  <text digest="Other Life Events">Other Life Events</text>
+  <text digest="Our Family Tree">Our Family Tree</text>
+  <text digest="Our family trees may have a common link">Our family trees may have a common link</text>
+  <text digest="Owner">Owner</text>
+  <text digest="Owner Information (last known)">Owner Information (last known)</text>
+  <text digest="Page Number">Page Number</text>
+  <text digest="parents">parents</text>
+  <text digest="Password:">Password:</text>
+  <text digest="Paternal Ancestry">Paternal Ancestry</text>
+  <text digest="PERMANENTLY">PERMANENTLY</text>
+  <text digest="Permanently Delete the">Permanently Delete the</text>
+  <text digest="Permanently Delete the $user">Permanently Delete the $user</text>
+  <text digest="permanently erase">permanently erase</text>
+  <text digest="Permanently Remove">Permanently Remove</text>
+  <text digest="person">person</text>
+  <text digest="Phone">Phone</text>
+  <text digest="Phone Number">Phone Number</text>
+  <text digest="pixels will be resized)">pixels will be resized)</text>
+  <text digest="Place of Adoption">Place of Adoption</text>
+  <text digest="Place of Baptism">Place of Baptism</text>
+  <text digest="Place of Bar/Bat Mitzvah">Place of Bar/Bat Mitzvah</text>
+  <text digest="Place of Birth">Place of Birth</text>
+  <text digest="Place of Confirmation">Place of Confirmation</text>
+  <text digest="Place of Death">Place of Death</text>
+  <text digest="Place of Divorce">Place of Divorce</text>
+  <text digest="Place of Graduation">Place of Graduation</text>
+  <text digest="Place of Marriage">Place of Marriage</text>
+  <text digest="Please choose a file to upload">Please choose a file to upload</text>
+  <text digest="Please contact the">Please contact the</text>
+  <text digest="Please enter a password for this new login">Please enter a password for this new login</text>
+  <text digest="Please login with the new username/password">Please login with the new username/password</text>
+  <text digest="Please Read Guidelines">Please Read Guidelines</text>
+  <text digest="Please read these guidelines first">Please read these guidelines first</text>
+  <text digest="Please select Individual ID from the drop down box">Please select Individual ID from the drop down box</text>
+  <text digest="Please try a different ID#, or switch to">Please try a different ID#, or switch to</text>
+  <text digest="Postal Code">Postal Code</text>
+  <text digest="Previous Image">Previous Image</text>
+  <text digest="Probate">Probate</text>
+  <text digest="Process">Process</text>
+  <text digest="Publication">Publication</text>
+  <text digest="Re-load $tname\'s record.">Re-load $tname's record.</text>
+  <text digest="Read-only Password:">Read-only Password:</text>
+  <text digest="record and fill in information about the">record and fill in information about the</text>
+  <text digest="regarding this error">regarding this error</text>
+  <text digest="Registered Name">Registered Name</text>
+  <text digest="Registration">Registration</text>
+  <text digest="regname fragment">registration name</text>
+  <text digest="Relation:">Relation:</text>
+  <text digest="Reliability">Reliability</text>
+  <text digest="removed">removed</text>
+  <text digest="req_pass_text">If you do not know the password for your family tree, you may ask your tree administrator for a password. Please enter the tree name, your name, and a way for the administrator to contact you, like an email address or phone number.</text>
+  <text digest="Residence">Residence</text>
+  <text digest="Retirement">Retirement</text>
+  <text digest="Save Information">Save Information</text>
+  <text digest="scroll_flow">Note: You may need to scroll down and right to see chart</text>
+  <text digest="Search">Search</text>
+  <text digest="Search Again">Search Again</text>
+  <text digest="search all trees">search all trees</text>
+  <text digest="Search results for trees other than the">Search results for trees other than the</text>
+  <text digest="Search your family tree!">Search your family tree!</text>
+  <text digest="second">second</text>
+  <text digest="Send Message">Send Message</text>
+  <text digest="Send Request">Send Request</text>
+  <text digest="Sender, Recipient, Subject, and Message Text are all required.">Sender, Recipient, Subject, and Message Text are all required.</text>
+  <text digest="sent_not_ok">Tufat Forgotten Password email send problem</text>
+  <text digest="server_tufat">If your tree is on tufat.com, then family trees are
+        backed up weekly. If your tree was created on some other server, then
+        you should contact the administrator of that server to find out how often
+        backups are performed.</text>
+  <text digest="seventh">seventh</text>
+  <text digest="Show">Show</text>
+  <text digest="Siblings">Siblings</text>
+  <text digest="Siblings:">Siblings:</text>
+  <text digest="simply_close">Simply close your web browser to end your TUFaT session.
+        If you want to re-login using a different username and password (e.g.
+        to access another tree, or to login as an administrator), you may click
+        the Logout link in the left navigation area.</text>
+  <text digest="since_i_created">Since I created a TUFaT tree for my own family, I've discovered relatives that
+  I never knew I had, and found ancestors reaching back hundreds of years. This
+  is because some computer-savvy grandparents and great-uncles that I have entered
+  information into TUFaT after I gave them the appropriate login information.
+  A decentralized system like this one is FAR superior than online capabilities
+  that come with such desktop family tree software like Generations <sup>TM</sup>,
+  because with those software products, you create the tree on your desktop computer,
+  and then upload *static* pages to a web server. If you want to change the online
+  tree, you have to make the change on your desktop computer, and then *re-load*
+  to the web. How laborious!</text>
+  <text digest="Sire">Sire</text>
+  <text digest="Sire:">Sire:</text>
+  <text digest="site supervisor">site supervisor</text>
+  <text digest="sixth">sixth</text>
+  <text digest="Size:">Size:</text>
+  <text digest="somewhat_usernames">Somewhat. Usernames and passwords are stored in a
+        MySQL table, but they are not encrypted. So unless someone gains access
+        to your FTP or MySQL login information, you're probably ok. However, transmissions
+        to and from your computer to the server are not secure unless you have
+        an SSL certificate, signed by a trusted authority like</text>
+  <text digest="Sons">Sons</text>
+  <text digest="Sources">Sources</text>
+  <text digest="Sources delete problem.">Sources delete problem.</text>
+  <text digest="Sources list is empty">Sources list is empty</text>
+  <text digest="Sources were deleted successfully.">Sources were deleted successfully.</text>
+  <text digest="Spouses:">Spouses:</text>
+  <text digest="Standard">Standard</text>
+  <text digest="State">State</text>
+  <text digest="step">step</text>
+  <text digest="Street Address">Street Address</text>
+  <text digest="Subject of mail:">Subject of mail:</text>
+  <text digest="Subject:">Subject:</text>
+  <text digest="Submit">Submit</text>
+  <text digest="Submit and Upload more">Submit and Upload more</text>
+  <text digest="Surname">Surname</text>
+  <text digest="surname fragment">surname fragment</text>
+  <text digest="Surname or Family Name">Surname or Family Name</text>
+  <text digest="Surname Prefix">Surname Prefix</text>
+  <text digest="Switch to frame view">Switch to frame view</text>
+  <text digest="Switch to non frame view">Switch to non frame view</text>
+  <text digest="tags1">0 @I103@ INDI</text>
+  <text digest="tags2">0 @F100@ FAM</text>
+  <text digest="Template Changed">Template Changed</text>
+  <text digest="tenth">tenth</text>
+  <text digest="Text Only">Text Only</text>
+  <text digest="text_e">If you do not have a family tree,</text>
+  <text digest="the">The</text>
+  <text digest="The animal is the same">The animal is the same</text>
+  <text digest="The deletetion has been made.">The deletetion has been made.</text>
+  <text digest="The e-mail \'to\' address that you have specified appears to contain invalid syntax.">The e-mail 'to' address that you have specified appears to contain invalid syntax.</text>
+  <text digest="The events data submission was successful.">The events data submission was successful.</text>
+  <text digest="The file or file path">The file or file path</text>
+  <text digest="The following individuals do not belong to a family unit">The following individuals do not belong to a family unit</text>
+  <text digest="The gallery is empty">The gallery is empty</text>
+  <text digest="The image has been successfully added to the gallery">The image has been successfully added to the gallery</text>
+  <text digest="The image has been successfully added to the gallery. You may now add another image, or use the links below to view the gallery or edit your images.">The image has been successfully added to the gallery. You may now add another image, or use the links below to view the gallery or edit your images.</text>
+  <text digest="The import script does not supports only tar.gz file format.">The import script does not supports only tar.gz file format.</text>
+  <text digest="The import script supports only tar.gz format.">The import script supports only tar.gz format.</text>
+  <text digest="The language  with encoding  already exists. Please delete it before importing.">The language  with encoding  already exists. Please delete it before importing.</text>
+  <text digest="The language save file appears to be invalid.">The language save file appears to be invalid.</text>
+  <text digest="The link has been successfully added to the gallery">The link has been successfully added to the gallery</text>
+  <text digest="The link has been successfully updated to the gallery">The link has been successfully updated to the gallery</text>
+  <text digest="The location specified does not exist or is inaccessible">The location specified does not exist or is inaccessible</text>
+  <text digest="The login has been added successfully.">The login has been added successfully.</text>
+  <text digest="The new tree has been created successfully">The new tree has been created successfully</text>
+  <text digest="The notes submission was successful. Click \'Close\' to close this popup window and add more notes.">The notes submission was successful. Click 'Close' to close this popup window and add more notes.</text>
+  <text digest="The notes submission was successful. Click OK to close this popup confirmation and the note editing window, and return to the list of notes">The notes submission was successful. Click OK to close this popup confirmation and the note editing window, and return to the list of notes</text>
+  <text digest="The person is the same">The person is the same</text>
+  <text digest="The source has been updated or added successfully. Click OK to close this popup confirmation and the source editing window. The parent window will refresh automatically to reflect this change.">The source has been updated or added successfully. Click OK to close this popup confirmation and the source editing window. The parent window will refresh automatically to reflect this change.</text>
+  <text digest="The source submission was successful. Click \'Close\' to close this popup window and add more sources.">The source submission was successful. Click 'Close' to close this popup window and add more sources.</text>
+  <text digest="The specified individual has no parent information to view.">The specified individual has no parent information to view.</text>
+  <text digest="The system could not find record with $ID">The system could not find record with $ID</text>
+  <text digest="The system could not find the individual with ID# $ID">The system could not find the individual with ID# $ID</text>
+  <text digest="The user name and/or password that you entered could not be found or is invalid. Please try again.">The user name and/or password that you entered could not be found or is invalid. Please try again.</text>
+  <text digest="The user name that you requested is already in use. Please enter a different one.">The user name that you requested is already in use. Please enter a different one.</text>
+  <text digest="The username $solduser has been renamed to $suser">The username $solduser has been renamed to $suser</text>
+  <text digest="The Username $suser is already being used. Please choose another username and try again.">The Username $suser is already being used. Please choose another username and try again.</text>
+  <text digest="The username $suser with password $spass already exists">The username $suser with password $spass already exists</text>
+  <text digest="There are no life event information available yet.">There are no life event information available yet.</text>
+  <text digest="There are no images available.">There are no images available.</text>
+  <text digest="There are no images present. Click the Add link below to create one.">There are no images present. Click the Add link below to create one.</text>
+  <text digest="There are no individuals in this family tree yet.">There are no individuals in this family tree yet.</text>
+  <text digest="There are no uploaded portraits.">There are no uploaded portraits.</text>
+  <text digest="There has been some problem with renaming username $solduser to $suser">There has been some problem with renaming username $solduser to $suser</text>
+  <text digest="There was an error sending the e-mail to $emi">There was an error sending the e-mail to $emi</text>
+  <text digest="There was some add link problem. Please contact your Adminitrator.">There was some add link problem. Please contact your Adminitrator.</text>
+  <text digest="There was some update problem. Please contact your Adminitrator.">There was some update problem. Please contact your Adminitrator.</text>
+  <text digest="There was some upload problem. Please contact your Adminitrator.">There was some upload problem. Please contact your Adminitrator.</text>
+  <text digest="the_gedcom_file">The GEDCOM file format is the worldwide standard
+              format for storing genealogical information. With this format, you
+              will be able to import your tree into other genealogical software,
+              like desktop family tree creators and public genealogical databases.</text>
+  <text digest="the_gedcom_standard">The GEDCOM file format is the standard file format
+        used by genealogists to share family tree data electronically. All the
+        major family tree creation programs on the market use this format, so
+        you can be assured that any tree that is created with this online system
+        will be exportable and compatible with most commercial desktop family
+        tree creation software.</text>
+  <text digest="the_record_that">The record that you have requested is
+   locked by a password. Please enter it here, or enter the administrator
+   password, to continue editing this record.</text>
+  <text digest="third">third</text>
+  <text digest="This is an">This is an</text>
+  <text digest="This is an automatic notification that an update was made to your family tree record on $today.">This is an automatic notification that an update was made to your family tree record on $today.</text>
+  <text digest="This record cannot be deleted because the system has found one or more children associated with this record. Its deletion could create a logical inconsistency in the family tree. To delete it, first remove the associated children">This record cannot be deleted because the system has found one or more children associated with this record. Its deletion could create a logical inconsistency in the family tree. To delete it, first remove the associated children</text>
+  <text digest="this_family">This family tree system was created with the expectation that most
+  users have Microsoft Internet Explorer. If display problems occur
+  while viewing records, try installing the</text>
+  <text digest="this_will_create">This will create an entirely
+                new tree for your extended family. If someone in your extended
+                family already has login information for a tree, you should input
+                that information into the form bellow instead. The Read-only Password
+                will allow users to view, but not edit, the tree, and the Administrative
+                Password will allow users to delete the tree, import or export
+                data, and bypass any lock. The passwords (general access, read-only, and admin) must be different, and may contain only alpha-numeric characters.</text>
+  <text digest="this_will_pdelete">This will permanently delete this family tree. ALL
+              records and gallery images will be removed. Think about this carefully
+              before you do this. If you do not have a backup of the tree, you
+              should perform a backup first.</text>
+  <text digest="Thumbnail">Thumbnail</text>
+  <text digest="Time/Date Added">Time/Date Added</text>
+  <text digest="times">times</text>
+  <text digest="Title">Title</text>
+  <text digest="Title:">Title:</text>
+  <text digest="To logout, you may also simply close all instances of your web browser.">To logout, you may also simply close all instances of your web browser.</text>
+  <text digest="To view your record click">To view your record click</text>
+  <text digest="To:">To:</text>
+  <text digest="today">today</text>
+  <text digest="Tools">Tools</text>
+  <text digest="Total number of records:">Total number of records in  tree:</text>
+  <text digest="to_be_safe">To be safe, use a password that you
+        don't mind sharing with others, and do not put information on your web-based
+        family tree that is very sensitive. I'm not saying that your information
+        is freely visible to anyone who wants it - I'm just saying that if a determined
+        hacker wanted to crack your tree, he or she could probably do it. If you
+        think about it, your username and password are going to be known by a
+        lot of people anyway if you distribute it to many family members, right?
+        This is especially true if you have a large family, and many people in
+        your family contribute information to the tree. So it doesn't really make
+        sense to use a super private password like your personal bank account
+        number of your social security number to protect your tree.</text>
+  <text digest="to_jump_to">To jump to a specific record, type the record # into
+        the &quot;Load Record&quot; field at the right side of the TUFaT screen
+        and click OK. It's a good idea to write down the record # of the person
+        you were working on last before ending your web browser session, so that
+        you can jump directly to that record later.</text>
+  <text digest="to_lock">To lock this record, enter a lock password here. Leave this field blank to remove a lock.</text>
+  <text digest="to_upload_a_photo">To upload a photo to the tree, click on the image
+        in the photo frame (where the photo <em>should</em> be), of the currently
+        loaded person's record. Any photo that you load to the tree will replace
+        any existing photo.</text>
+  <text digest="Tree Created:">Tree Created:</text>
+  <text digest="Tree Created: $dateCreated">Tree Created: $dateCreated</text>
+  <text digest="Tree Name">Tree Name</text>
+  <text digest="Tree Name $tname not found">Tree Name $tname not found</text>
+  <text digest="Tree Name:">Tree Name:</text>
+  <text digest="tree were returned by your search request.">tree were returned by your search request.</text>
+  <text digest="tree will be removed.">tree will be removed.</text>
+  <text digest="tree:">tree:</text>
+  <text digest="twice">twice</text>
+  <text digest="Type of Birth">Type of Birth</text>
+  <text digest="Type of Union">Type of Union</text>
+  <text digest="uncle">uncle</text>
+  <text digest="uncles">uncles</text>
+  <text digest="Undefined">Undefined</text>
+  <text digest="Unknown">Unknown</text>
+  <text digest="Unlock Record">Unlock Record</text>
+  <text digest="unrecognized_gedcom_tags">Unrecognized GEDCOM tags will be ignored during
+    the upload. The upload process may take several seconds - please
+    be patient.</text>
+  <text digest="Update">Update</text>
+  <text digest="Update Bio or Portrait">Update Bio or Portrait</text>
+  <text digest="Upload">Upload</text>
+  <text digest="Upload a new biography for">Upload a new biography for</text>
+  <text digest="Upload a new biography for $name">Upload a new biography for $name</text>
+  <text digest="Upload a new portrait for">Upload a new portrait for</text>
+  <text digest="Upload from FTP, HTTP or server path location:">Upload from FTP, HTTP or server path location:</text>
+  <text digest="Upload Image:">Upload Image:</text>
+  <text digest="Upload problem">Upload problem</text>
+  <text digest="Upload successfull">Upload successfull</text>
+  <text digest="URL Link:">URL Link:</text>
+  <text digest="User ID:">User ID:</text>
+  <text digest="Username Error">Username Error</text>
+  <text digest="Username should be entered.">Username should be entered.</text>
+  <text digest="use_admin_pass">,
+                use admin as the password, with your normal user ID. This will
+                give you special administrative priviledges, such as the ability
+                to import/export records, and bypass any locked record. The admin
+                password can be set in the configuration file (which comes with
+                the $5 script purchase).</text>
+  <text digest="use_at_your_risk">Use at your own risk. The creator of TUFaT makes no claim
+                  as to the reliability of the system or the consistency of your
+                  tree. The system has been rigorously tested, but bugs may have
+                  slipped through the testing process.</text>
+  <text digest="Vaccination">Vaccination</text>
+  <text digest="View">View</text>
+  <text digest="View by">View by</text>
+  <text digest="View life events">View life events</text>
+  <text digest="View List">View List</text>
+  <text digest="View the Gallery">View the Gallery</text>
+  <text digest="View Thumbnails">View Thumbnails</text>
+  <text digest="view to choose a different individual.">view to choose a different individual.</text>
+  <text digest="view_more">View More Information About</text>
+  <text digest="Welcome to $treeName">Welcome to $treeName</text>
+  <text digest="Welcome to TUFaT, The Ultimate Family Tree creation system.">Welcome to TUFaT, The Ultimate Family Tree creation system.</text>
+  <text digest="What is a GEDCOM file?">What is a GEDCOM file?</text>
+  <text digest="What\'s New">What's New</text>
+  <text digest="when_uploading">When uploading a biographical file, you must specify
+        the format of the biography, for example Microsoft Word file, HTML file,
+        plain text file, etc. If the biography appears as garbage after uploading,
+        then you probably used a text processor that is not supported by this
+        system, or you did not specify a file format for the file.</text>
+  <text digest="Who is the">Who is the</text>
+  <text digest="Wife or Female Partner">Wife or Female Partner</text>
+  <text digest="Will">Will</text>
+  <text digest="Will my family tree be around for years to come?">Will my family tree be around for years to come?</text>
+  <text digest="Will my my family tree be around for years to come?">Will my my family tree be around for years to come?</text>
+  <text digest="With Thumbnail">With Thumbnail</text>
+  <text digest="Without Thumbnail">Without Thumbnail</text>
+  <text digest="with_this_online">With this online family tree builder, you will
+                be able to add to and edit your family tree online. Other members
+                of your family may contribute simply by logging in and adding
+                their own branches.</text>
+  <text digest="with_tufat_you_will">With TUFaT, you will be able to dynamically create and update your family tree
+  online. This means that the tree will be decentralized, and anyone with the
+  appropriate user name and password combination will be able to update their
+  information, add their own branches, etc. So go ahead and email your login information
+  to as many relatives as you know about, and watch your tree grow!</text>
+  <text digest="World Wide Web Address">World Wide Web Address</text>
+  <text digest="WWW Address">WWW Address</text>
+  <text digest="Year of Birth">Year of Birth</text>
+  <text digest="Year of Death">Year of Death</text>
+  <text digest="You are now logged out of the family tree.">You are now logged out of the family tree.</text>
+  <text digest="You may choose either:">You may choose either:</text>
+  <text digest="You must read and consent to the guidelines before creating a family tree.">You must read and consent to the guidelines before creating a family tree.</text>
+  <text digest="You should login as an Administrator">You should login as an Administrator</text>
+  <text digest="You will need your family tree login ID and password to access or edit the record.">You will need your family tree login ID and password to access or edit the record.</text>
+  <text digest="Your changes have been saved. You may now edit another image or use the links below to view, or add to, the gallery">Your changes have been saved. You may now edit another image or use the links below to view, or add to, the gallery</text>
+  <text digest="Your Name:">Your Name:</text>
+  <text digest="Your request has been sent to the $tname administrator. If you do not hear from the administrator soon, you may want to contact him or her directly at $aemail">Your request has been sent to the $tname administrator. If you do not hear from the administrator soon, you may want to contact him or her directly at $aemail</text>
+  <text digest="you_can_enter_adopted">You can enter adopted children and domestic partners
+        just as you would birth children and married partners. However, bear in
+        mind that you family tree would not longer be a genetic tree. It's a good
+        idea to note the adoption or partner in the person's biographical file.
+        In the case of same-sex domestic partners, one of the partners must be
+        the &quot;mother&quot; and one must be the &quot;father&quot;. Later releases
+        of TUFaT will allow more flexibility in this regard.</text>
+  <text digest="you_can_print">You can print the webpage that results from the &quot;Entire
+        Tree&quot; or &quot;Extended Family&quot; links, or you can export your
+        TUFaT tree to the GEDCOM file format and view or print the tree using
+        a commerical family tree program. Any program that supports the GEDCOM
+        file format should work fine. These programs are usually available at
+        local computer stores.</text>
+  <text digest="you_will_need">You will need to start your tree by creating an individual. This individual
+  can be anyone - it doesn't have to be an ancestor or yourself or anyone in particular.
+  Just pick some member of your family at random and enter his or her information
+  using the link below.</text>
+  <text digest="you_will_need_pe">The system is currently being used in "pedigree mode", which means that it will be used to track the genealogy of animals. Some features that are present in "human mode" are not available in "pedigree mode" (how many dogs do you know have occupations?). You can start this pedigree tree with any animal in the lineage, and grow the pedigree from the starting individual.</text>
+
+</language>

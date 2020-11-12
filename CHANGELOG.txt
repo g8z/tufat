@@ -1,0 +1,37 @@
+3.1.2
+- improve portrait handler
+- multiple fixes for magic_quotes_gpc problems
+
+
+3.1.1
+- any sex partner http://forum.tufat.com/showthread.php?t=52189
+- fix menu troubles
+- improve manipulations with gedcom table
+- fix ID for  Sons, Daughters, Siblings (core logical fix, may solve another problems)
+- fix redirect after adding son, daughter or sibling
+- add delete function for sons, daughters and siblings
+  (from TODO: the ability to delete records without the need to go into the database via phpmyadmin)
+- fix find relation output for sisters and brothers
+- improved cache generation for menu and calendar
+- fix events loops
+- fix auth verification for load.php and events.php
+
+- add database normalization
+- improved records edit functionality
+- fix email update
+- fix date showing
+
+3.0.9
+- fix person create functionality
+- remove email from necessary field list
+- fixed email name field in template edit.tpl 
+- fixed date format in 'More about' (summary table) page
+- now images can reviewed in full size. (link to full size image)
+- fixed empty value for constatn SHOWALLTREES in installation step 3
+- 'event show' functionality optimized
+- fixed person show bug(load.php)
+- db function getItems optimized, now it get all fields using one sql query and reduce database load
+- quick search improved, now it support quick move to page if id is entered
+- optimized calendar generation
+- add cache for navigation menu
+- improvided and fixed quick search and search
